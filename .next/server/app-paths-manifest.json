@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/bubble-sort/page": "app/bubble-sort/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/quick-sort/page": "app/quick-sort/page.js",
+  "/binary-search/page": "app/binary-search/page.js"
+}
